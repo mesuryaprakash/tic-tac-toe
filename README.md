@@ -43,7 +43,7 @@ A clean and simple 2-player **Tic Tac Toe** game built using **HTML**, **CSS**, 
 
 ---
 ## 📸 Demo Screenshot
-![Tic Tac Toe Game Preview](/tic-tac-toe/Screenshot%202025-06-18%20193903.png)
+![Tic Tac Toe Game Preview](Screenshot%202025-06-18%20193903.png)
 
 ---
 ## 🧠 Possible Improvements
